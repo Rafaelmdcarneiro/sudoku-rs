@@ -1,4 +1,4 @@
-rust-sudoku
+sudoku-rs
 ===========
 
 A Sudoku implementation in Rust.
