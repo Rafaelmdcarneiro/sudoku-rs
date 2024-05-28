@@ -1,0 +1,8 @@
+[package]
+name = "rust-sudoku"
+version = "0.1.2"
+authors = ["Andrey Konovalov <andreyknvl.com>"]
+
+[dependencies]
+rand = "0.8"
+piston_window = "0.131"
